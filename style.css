@@ -8,6 +8,10 @@
 .container {
   padding: 10px;
 }
+h1,
+h2 {
+  color: #f0e68c;
+}
 header {
   background-image: url("img/pattern.jpeg");
   /* height: 100px; */
@@ -16,7 +20,6 @@ header {
   text-align: center;
 }
 header h1 {
-  color: #f0e68c;
   font-size: 80px;
 }
 section {
@@ -31,7 +34,6 @@ article {
 }
 article h2 {
   font-size: 2em;
-  color: #f0e68c;
   background-color: rgb(92, 91, 91);
   padding: 5px;
 }
